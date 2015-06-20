@@ -16,3 +16,5 @@ Què fas?
 [Et pessigues el braç] (pessigar-se/pessigar-se.md)
 
 [T'aixeques del llit] (aixecar/aixecar.md)
+
+[agafo el meu telefon i miro el maps] (telefon/telefon.md)
