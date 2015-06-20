@@ -1,0 +1,1 @@
+El mapa del telèfon indica que estic a Cupertino, California. Però no recordo haver viatjat mai a Cupertino!
